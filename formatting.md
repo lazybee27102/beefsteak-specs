@@ -14,7 +14,7 @@ The artcile preview should be able to support these formatting
 		}
 		
 3. Full-width images 
-![beefsteak-is-so-tasty](http://www.top4themes.com/data/out/15/5419788-beef-steak-wallpapers.jpg)
+![](beef-steak-is-so-tasty.jpg?raw=true "beefsteak")
 
 4. Referenced link
 
@@ -22,17 +22,5 @@ The artcile preview should be able to support these formatting
 [Beefsteak is always awesome](https://en.wikipedia.org/wiki/Beefsteak)
 
 5. Full html 
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>This is a title</title>
-  </head>
-  <body>
-    <p>Hello world!</p>
-  </body>
-</html>
-```
 
 
