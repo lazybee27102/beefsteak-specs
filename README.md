@@ -1,4 +1,4 @@
-# Bee's thoughts about beefsteak 
+# Bee's thoughts about `beefsteak`
 
 1. Modeling article
 2. Server-client architecture
