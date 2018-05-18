@@ -1,4 +1,6 @@
-# bee loves beefsteak, and he gives it a lot of thoughts 
+# beefsteak specifications
+
+### bee loves beefsteak, and he gives it a lot of thoughts 
 
 1. Modeling article
 2. Server-client architecture
