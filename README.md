@@ -3,7 +3,7 @@
 ### bee loves beefsteak, and he gives it a lot of thoughts 
 
 
-[1. Modeling article]()
+[1. Modeling article](https://github.com/lazybee27102/beefsteak-specs/blob/master/modeling.md)
 
 [2. Server-client architecture]()
 
