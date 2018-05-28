@@ -4,7 +4,7 @@ A very simple relationship database
 - 1 category has many article 
 - 1 article inside 1 category 
 
-####Article
+**Article**
 - content: text
 - title: string
 - createdAt: datetime
@@ -12,7 +12,7 @@ A very simple relationship database
 - deleteAt: datetime
 - category_id: integer
 
-####Category
+**Category**
 - name: string
 - createdAt: datetime
 - updatedAt: datetime
