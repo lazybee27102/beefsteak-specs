@@ -1,7 +1,7 @@
 ### Version 0.0.1
 
 A very simple relationship database
-- 1 category has many article 
+- 1 category has many articles
 - 1 article inside 1 category 
 
 **Article**
