@@ -7,6 +7,6 @@
 
 [2. Server-client architecture]()
 
-[3. Markdown supporting]()
+[3. Markdown supporting]()(https://github.com/lazybee27102/beefsteak-specs/blob/master/markdown.md)
 
 [4. Formating](https://github.com/lazybee27102/beefsteak-specs/blob/master/formatting.md)
