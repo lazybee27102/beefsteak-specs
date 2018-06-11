@@ -8,3 +8,5 @@ https://github.com/dannytatom/rails-bootstrap-markdown
 https://github.com/joliss/markdown-rails
 
 https://richonrails.com/articles/rendering-markdown-with-redcarpet
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
